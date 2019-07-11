@@ -4,8 +4,6 @@ date: 2019-07-11T01:17:00-03:00
 excludeFromTopNav: false
 showDate: false
 ---
-## Privacy Policy
-
 Pablitar built the SuperCat app as an Ad Supported app. This SERVICE is provided by Pablitar at no cost and is intended for use as is.
 
 This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
