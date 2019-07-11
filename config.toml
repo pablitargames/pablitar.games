@@ -1,6 +1,6 @@
 title = "Pablitar Games"
 # Add an trailing slash to ensure that all fonts render correctly.
-baseURL = "pablitar.games"
+baseURL = "http://pablitar.games"
 theme = "bilberry-hugo-theme"
 
 enableRobotsTXT = true
