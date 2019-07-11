@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pablitar on Pablitar Games</title>
-    <link>pablitar.games/author/pablitar/</link>
+    <link>http://pablitar.games/author/pablitar/</link>
     <description>Recent content in Pablitar on Pablitar Games</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Sun, 23 Jun 2019 18:10:14 +0100</lastBuildDate>
     
-	<atom:link href="pablitar.games/author/pablitar/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://pablitar.games/author/pablitar/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>SuperCat Alpha 3 Released</title>
-      <link>pablitar.games/article/alpha-3-release/</link>
+      <link>http://pablitar.games/article/alpha-3-release/</link>
       <pubDate>Sun, 23 Jun 2019 18:10:14 +0100</pubDate>
       
-      <guid>pablitar.games/article/alpha-3-release/</guid>
+      <guid>http://pablitar.games/article/alpha-3-release/</guid>
       <description>WE HAVE RELEASED THE ALPHA 3 for Android.
 You can find it in the Play Store in Open Beta:
 https://play.google.com/store/apps/details?id=ar.pablitar.supercat</description>

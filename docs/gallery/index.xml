@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pablitar Games</title>
-    <link>pablitar.games/gallery/</link>
+    <link>http://pablitar.games/gallery/</link>
     <description>Recent content on Pablitar Games</description>
     <generator>Hugo -- gohugo.io</generator>
     
-	<atom:link href="pablitar.games/gallery/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://pablitar.games/gallery/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
