@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Gameplay on Pablitar Games</title>
-    <link>http://pablitar.games/tags/gameplay/</link>
-    <description>Recent content in Gameplay on Pablitar Games</description>
+    <title>Tools on Pablitar Games</title>
+    <link>http://pablitar.games/tags/tools/</link>
+    <description>Recent content in Tools on Pablitar Games</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Thu, 25 Jul 2019 16:23:40 -0300</lastBuildDate>
     
-	<atom:link href="http://pablitar.games/tags/gameplay/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://pablitar.games/tags/tools/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -19,18 +19,6 @@
       <description>Hey there!
 We&amp;rsquo;ve been working a bit in adding more variety to the levels. In order to do that, we&amp;rsquo;ve added a simple wall and a level editor that goes with it. Take a look!
 Soon we&amp;rsquo;ll be adding some interesting levels with walls, to spice things up a bit :)</description>
-    </item>
-    
-    <item>
-      <title>SuperCat Giant Claw Gameplay</title>
-      <link>http://pablitar.games/video/giant-claw-gameplay/</link>
-      <pubDate>Sun, 30 Jun 2019 16:23:40 -0300</pubDate>
-      
-      <guid>http://pablitar.games/video/giant-claw-gameplay/</guid>
-      <description>Hey there!
-Take a look at this gameplay of SuperCat! In this occasion SuperCat is put against the Giant Claw, the boss of this first entry of the game.
-Do you think you can beat it?
-Try it out for free on Android!</description>
     </item>
     
   </channel>

@@ -5,10 +5,21 @@
     <link>http://pablitar.games/tags/supercat/</link>
     <description>Recent content in SuperCat on Pablitar Games</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 30 Jun 2019 16:23:40 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jul 2019 16:23:40 -0300</lastBuildDate>
     
 	<atom:link href="http://pablitar.games/tags/supercat/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>SuperCat Level Editor</title>
+      <link>http://pablitar.games/video/level-editor/</link>
+      <pubDate>Thu, 25 Jul 2019 16:23:40 -0300</pubDate>
+      
+      <guid>http://pablitar.games/video/level-editor/</guid>
+      <description>Hey there!
+We&amp;rsquo;ve been working a bit in adding more variety to the levels. In order to do that, we&amp;rsquo;ve added a simple wall and a level editor that goes with it. Take a look!
+Soon we&amp;rsquo;ll be adding some interesting levels with walls, to spice things up a bit :)</description>
+    </item>
     
     <item>
       <title>SuperCat Giant Claw Gameplay</title>
