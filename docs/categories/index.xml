@@ -5,7 +5,7 @@
     <link>http://pablitar.games/categories/</link>
     <description>Recent content in Categories on Pablitar Games</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 25 Jul 2019 16:23:40 -0300</lastBuildDate>
+    <lastBuildDate>Sat, 12 Oct 2019 17:43:40 -0300</lastBuildDate>
     
 	<atom:link href="http://pablitar.games/categories/index.xml" rel="self" type="application/rss+xml" />
     
@@ -13,16 +13,25 @@
     <item>
       <title>SuperCat</title>
       <link>http://pablitar.games/categories/supercat/</link>
-      <pubDate>Thu, 25 Jul 2019 16:23:40 -0300</pubDate>
+      <pubDate>Sat, 12 Oct 2019 17:43:40 -0300</pubDate>
       
       <guid>http://pablitar.games/categories/supercat/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>Trailer</title>
+      <link>http://pablitar.games/categories/trailer/</link>
+      <pubDate>Sat, 12 Oct 2019 17:43:40 -0300</pubDate>
+      
+      <guid>http://pablitar.games/categories/trailer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Video</title>
       <link>http://pablitar.games/categories/video/</link>
-      <pubDate>Thu, 25 Jul 2019 16:23:40 -0300</pubDate>
+      <pubDate>Sat, 12 Oct 2019 17:43:40 -0300</pubDate>
       
       <guid>http://pablitar.games/categories/video/</guid>
       <description></description>
