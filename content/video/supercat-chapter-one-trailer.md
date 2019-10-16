@@ -18,4 +18,4 @@ Cant't wait for you people to try it :)
 Links:
 
 * [Android](https://play.google.com/store/apps/details?id=ar.pablitar.supercat)
-* iOS coming soon!
+* [iOS](https://testflight.apple.com/join/E7msjwCR)
