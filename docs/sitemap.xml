@@ -5,21 +5,25 @@
   <url>
     <loc>http://pablitar.games/categories/</loc>
     <lastmod>2019-10-12T17:43:40-03:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>http://pablitar.games/</loc>
     <lastmod>2019-10-12T17:43:40-03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://pablitar.games/tags/supercat/</loc>
-    <lastmod>2019-10-12T17:43:40-03:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>http://pablitar.games/categories/supercat/</loc>
     <lastmod>2019-10-12T17:43:40-03:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://pablitar.games/tags/supercat/</loc>
+    <lastmod>2019-10-12T17:43:40-03:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -30,36 +34,43 @@
   <url>
     <loc>http://pablitar.games/tags/</loc>
     <lastmod>2019-10-12T17:43:40-03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://pablitar.games/tags/trailer/</loc>
-    <lastmod>2019-10-12T17:43:40-03:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>http://pablitar.games/categories/trailer/</loc>
     <lastmod>2019-10-12T17:43:40-03:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://pablitar.games/tags/trailer/</loc>
+    <lastmod>2019-10-12T17:43:40-03:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>http://pablitar.games/categories/video/</loc>
     <lastmod>2019-10-12T17:43:40-03:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>http://pablitar.games/video/</loc>
     <lastmod>2019-10-12T17:43:40-03:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>http://pablitar.games/tags/development/</loc>
     <lastmod>2019-07-25T16:23:40-03:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>http://pablitar.games/tags/gameplay/</loc>
     <lastmod>2019-07-25T16:23:40-03:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -70,11 +81,13 @@
   <url>
     <loc>http://pablitar.games/tags/tools/</loc>
     <lastmod>2019-07-25T16:23:40-03:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>http://pablitar.games/page/</loc>
     <lastmod>2019-07-11T01:17:00-03:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -90,6 +103,7 @@
   <url>
     <loc>http://pablitar.games/categories/gameplay/</loc>
     <lastmod>2019-06-30T16:23:40-03:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -100,26 +114,31 @@
   <url>
     <loc>http://pablitar.games/article/</loc>
     <lastmod>2019-06-23T18:10:14+01:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>http://pablitar.games/author/</loc>
     <lastmod>2019-06-23T18:10:14+01:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>http://pablitar.games/tags/news/</loc>
     <lastmod>2019-06-23T18:10:14+01:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>http://pablitar.games/author/pablitar/</loc>
     <lastmod>2019-06-23T18:10:14+01:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>http://pablitar.games/tags/release/</loc>
     <lastmod>2019-06-23T18:10:14+01:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>

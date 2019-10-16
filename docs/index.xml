@@ -10,66 +10,50 @@
     
     
     <item>
-      <title>Videos</title>
-      <link>http://pablitar.games/video/</link>
+      <title>SuperCat Chapter One Release Date</title>
+      <link>http://pablitar.games/video/supercat-chapter-one-trailer/</link>
       <pubDate>Sat, 12 Oct 2019 17:43:40 -0300</pubDate>
       
-      <guid>http://pablitar.games/video/</guid>
-      <description></description>
+      <guid>http://pablitar.games/video/supercat-chapter-one-trailer/</guid>
+      <description>CHAPTER ONE RELEASE DATE: Oct 22nd
+It is finally coming! The chapter one of SuperCat is going to be released for Android and iOS on October 22nd of 2019.
+Cant&amp;rsquo;t wait for you people to try it :)
+Links:
+ Android iOS  </description>
     </item>
     
     <item>
-      <title>Articles</title>
-      <link>http://pablitar.games/article/</link>
+      <title>SuperCat Level Editor</title>
+      <link>http://pablitar.games/video/level-editor/</link>
+      <pubDate>Thu, 25 Jul 2019 16:23:40 -0300</pubDate>
+      
+      <guid>http://pablitar.games/video/level-editor/</guid>
+      <description>Hey there!
+We&amp;rsquo;ve been working a bit in adding more variety to the levels. In order to do that, we&amp;rsquo;ve added a simple wall and a level editor that goes with it. Take a look!
+Soon we&amp;rsquo;ll be adding some interesting levels with walls, to spice things up a bit :)</description>
+    </item>
+    
+    <item>
+      <title>SuperCat Giant Claw Gameplay</title>
+      <link>http://pablitar.games/video/giant-claw-gameplay/</link>
+      <pubDate>Sun, 30 Jun 2019 16:23:40 -0300</pubDate>
+      
+      <guid>http://pablitar.games/video/giant-claw-gameplay/</guid>
+      <description>Hey there!
+Take a look at this gameplay of SuperCat! In this occasion SuperCat is put against the Giant Claw, the boss of this first entry of the game.
+Do you think you can beat it?
+Try it out for free on Android!</description>
+    </item>
+    
+    <item>
+      <title>SuperCat Alpha 3 Released</title>
+      <link>http://pablitar.games/article/alpha-3-release/</link>
       <pubDate>Sun, 23 Jun 2019 18:10:14 +0100</pubDate>
       
-      <guid>http://pablitar.games/article/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>http://pablitar.games/gallery/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://pablitar.games/gallery/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Audios</title>
-      <link></link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid></guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Codes</title>
-      <link></link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid></guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Links</title>
-      <link></link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid></guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Quotes</title>
-      <link></link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid></guid>
-      <description></description>
+      <guid>http://pablitar.games/article/alpha-3-release/</guid>
+      <description>WE HAVE RELEASED THE ALPHA 3 for Android.
+You can find it in the Play Store in Open Beta:
+https://play.google.com/store/apps/details?id=ar.pablitar.supercat</description>
     </item>
     
   </channel>
