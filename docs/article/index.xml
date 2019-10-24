@@ -5,10 +5,21 @@
     <link>http://pablitar.games/article/</link>
     <description>Recent content in Articles on Pablitar Games</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 23 Jun 2019 18:10:14 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 23 Oct 2019 10:30:00 -0300</lastBuildDate>
     
 	<atom:link href="http://pablitar.games/article/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>SuperCat Chapter 1 Released</title>
+      <link>http://pablitar.games/article/chapter-one-release/</link>
+      <pubDate>Wed, 23 Oct 2019 10:30:00 -0300</pubDate>
+      
+      <guid>http://pablitar.games/article/chapter-one-release/</guid>
+      <description>Finally. The day has come.
+SuperCat Chapter 1 is available on Play Store and Apple Store.
+What are you waiting for? DOWNLOAD IT!</description>
+    </item>
     
     <item>
       <title>SuperCat Alpha 3 Released</title>
